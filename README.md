@@ -43,6 +43,11 @@ XAI_Interpretability_Project
 ├── reports/             # Detailed and condensed project reports
 └── README.md            # Current file
 ```
+## Notebook Rendering Note
+GitHub’s native notebook viewer may fail to render certain notebooks in this repository, particularly those containing complex visual outputs or widget metadata.
+All notebooks are fully intact, and outputs have been preserved for analysis, but GitHub may display an “Invalid Notebook” or "Unable to render code block" message in some cases.
+
+For best results, please download the notebooks locally or open them in JupyterLab or VS Code.
 
 ## Reports:
 
